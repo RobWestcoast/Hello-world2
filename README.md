@@ -1,2 +1,2 @@
 # Hello-world2
-Hi my name is Robert, and imjust getting started
+Hi my name is Robert, and im just getting started
